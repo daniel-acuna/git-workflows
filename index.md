@@ -3,3 +3,5 @@
 <h2>This is a new course</h2>
 
 This is the correct description
+
+<h2>Second course </h2>
